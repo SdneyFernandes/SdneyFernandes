@@ -11,7 +11,7 @@
 
 ## 🚀 Sobre mim
 
-Desenvolvedor com foco em Backend Java, apaixonado por transformar problemas complexos em soluções de software robustas e escaláveis. Minha jornada tem sido focada na construção de sistemas distribuídos de ponta a ponta, desde a arquitetura e segurança até a containerização e orquestração.
+Desenvolvedor com foco em Backend Java, apaixonado por transformar problemas em soluções de software. Minha jornada tem sido focada na construção de sistemas distribuídos, desde a arquitetura e segurança até a containerização e orquestração.
 
 - 🎯 **Foco Principal:** Arquitetura de Microsserviços, Mensageria com Kafka e Orquestração com Kubernetes.
 - 🌱 **Estudando Atualmente:** Aprofundando conhecimentos em AWS, Design Patterns e práticas de TDD.
