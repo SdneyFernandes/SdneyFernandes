@@ -81,7 +81,7 @@ Desenvolvedor com foco em Backend Java, apaixonado por transformar problemas em 
 
 - ✅ **Concluído:** Projetos práticos com Kubernetes, Kafka, AWS Lambda, Spring Security (JWT) e TDD.
 - 🔥 **Aprimorando:** System Design e Arquiteturas Cloud-Native.
-- 🎯 **Meta:** Conseguir minha primeira oportunidade como Desenvolvedor Backend Java para aplicar e expandir minhas habilidades em desafios reais.
+- 🎯 **Meta:** Desenvolver soluções sustentateis e impactantes.
 
 ---
 
