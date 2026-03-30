@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <h1 align="center">Olá 👋, Eu sou Sdney Fernandes</h1>
-<h3 align="center">Desenvolvedor Backend Java | Microsserviços | Cloud-Native Enthusiast</h3>
+<h3 align="center">Desenvolvedor Backend Java</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Backend+Apaixonado;Java+%7C+Spring+Boot+%7C+Microsserviços;Kafka+%7C+Kubernetes+%7C+Docker+%7C+AWS;Defensor+de+Clean+Code+%26+TDD" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 
 ## 🚀 Sobre mim
 
-Desenvolvedor com foco em Backend Java, apaixonado por transformar problemas em soluções de software. Minha jornada tem sido focada na construção de sistemas distribuídos, desde a arquitetura e segurança até a containerização e orquestração.
+Desenvolvedor com foco em Backend Java, apaixonado por transformar problemas em soluções de software. 
 
 - 🎯 **Foco Principal:** Arquitetura de Microsserviços, Mensageria com Kafka e Orquestração com Kubernetes.
 - 🌱 **Estudando Atualmente:** Aprofundando conhecimentos em AWS, Design Patterns e práticas de TDD.
@@ -56,13 +56,6 @@ Desenvolvedor com foco em Backend Java, apaixonado por transformar problemas em 
     <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
     <img src="https://img.shields.io/badge/Mockito-00C7B7?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/JaCoCo-d62113?style=for-the-badge"/>
-</p>
-
-### 🌐 Frontend
-<p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
 
 ---
